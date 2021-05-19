@@ -3,8 +3,9 @@ Learning to write MD on Udemy 😏
 ----------
 >Repositório de exercícios do curso de MD do udemy https://www.udemy.com/course/aprenda-markdown
 
+-----
 
-![Achivemt](/Learnt MD!.png "Achievement Unlock")
+![Achivemt](Learnt MD!.png)
 
 
 -----------
@@ -13,7 +14,7 @@ Learning to write MD on Udemy 😏
 * [x] Ferramentas  
 * [x] Cabeçalho
 * [x] Paragráfo
-* [x] ]Ênfase
+* [x] Ênfases
 * [x] Linhas horizontais
 * [x] Listas Ordenadas
 * [x] Listas Não-ordenadas
