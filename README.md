@@ -5,7 +5,7 @@ Learning to write MD on Udemy 😏
 
 -----
 
-![Achivemt](Learnt MD!.png)
+![Achivemt](https://github.com/Thalitachargel/Curso-de-MD/blob/main/Learnt%20MD!.png "Achievement Unlocked")
 
 
 -----------
